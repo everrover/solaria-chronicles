@@ -1,5 +1,6 @@
-// All required std imports
+package leetcode.prob410;// All required std imports
 
+import java.util.Arrays;
 
 /**
 Link: https://leetcode.com/problems/split-array-largest-sum/

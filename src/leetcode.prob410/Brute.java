@@ -1,6 +1,6 @@
-// Std imports
+package leetcode.prob410;// Std imports
 
-class Brute 
+class Brute {
     private static int []sums;
     public int splitArray(int[] nums, int m) {
         sums = new int[nums.length];
