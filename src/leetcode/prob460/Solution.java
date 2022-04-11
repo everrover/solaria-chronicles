@@ -83,6 +83,7 @@ class Solution {
             return;
         }else if(nodeHash.containsKey(key)){
             incCount(nodeHash.get(key), false);
+            nodeHash.get(key).val = value;
         }else {
             if (currCount >= capacity) {
                 currCount--;
