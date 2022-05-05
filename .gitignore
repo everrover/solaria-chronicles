@@ -28,4 +28,6 @@ hs_err_pid*
 
 solaria-chronicles.iml
 out/*
+out
 .idea/*
+.idea
