@@ -23,5 +23,9 @@
 hs_err_pid*
 
 ./solaria-chronicles.iml
-out/
+./out/*
+./.idea/*
+
+solaria-chronicles.iml
+out/*
 .idea/*
